@@ -1,0 +1,42 @@
+.body{
+    color: azure;
+}
+.img{
+    padding-top:80px;
+    padding-left:70px
+}
+#error{
+  font-size:8px;
+  padding-left:100px;  
+}
+
+#error-message{
+ padding-left:650px;
+margin-top:-340px;
+}
+#head-message{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:40px;
+    width:30rem;
+}
+#page{
+    font-family: 'Times New Roman', Times, serif;
+    width:20rem;
+padding-top:20px;
+font-size:20px;
+}
+.button{
+    margin-left:0px;
+    width:140px;
+    height:40px;
+    border-radius:5px;
+    margin-top:7%;
+    background-color:black;
+    border:none;
+    color:white;
+    text-decoration-line: none;
+}
+#bottom{
+    padding-top:150px;
+    text-align: center;
+}
